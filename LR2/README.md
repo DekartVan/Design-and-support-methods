@@ -25,8 +25,7 @@
 
 ## Задание 4:
 Диаграмма прецедентов использования для Сети книжных магазинов показана на рисунке:
-![изображение](https://github.com/DekartVan/Design-and-support-methods/assets/60447026/d2331342-f62c-4d35-91c7-b04f99edce52)
-
+![изображение](https://github.com/DekartVan/Design-and-support-methods/assets/60447026/0a2d8353-3af1-4f56-8e79-acb890da4f0a)
 
 ## Задание 5:
 ### Вариант использования 1: Регистрация
